@@ -1,1 +1,5 @@
-::console.log("Hello world!");
+func Training (Exos...){
+}
+
+func Exo (type, repetitionCount, seriesCount){
+}

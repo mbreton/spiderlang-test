@@ -7,6 +7,7 @@
   "devDependencies": {
     "coffee-script": "^1.8.0",
     "gulp": "^3.8.10",
+    "gulp-rename": "^1.2.0",
     "gulp-spider-script": "0.0.5",
     "spider-script": "0.0.4"
   }
